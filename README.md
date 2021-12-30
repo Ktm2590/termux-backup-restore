@@ -11,5 +11,5 @@
 
 # this is a link to get package to create backup and restore backup.
 
-https://github.com/mohitsaraswat411/termux-backup-restore.git
+https://github.com/Ktm2590/termux-backup-restore.git
 
